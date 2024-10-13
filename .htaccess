@@ -1,4 +1,4 @@
 RewriteEngine on
-RewriteCond %{HTTP_HOST} ^almasjewellers.com.pk [NC,OR]
-RewriteCond %{HTTP_HOST} ^www.almasjewellers.com.pk [NC]
-RewriteRule ^(.*)$ https://hupack.com/$1 [L,R=301,NC]
+RewriteCond %{HTTP_HOST} ^tumdunyavizesi.com [NC,OR]
+RewriteCond %{HTTP_HOST} ^www.tumdunyavizesi.com [NC]
+RewriteRule ^(.*)$ https://harthlighting.com/$1 [L,R=301,NC]
